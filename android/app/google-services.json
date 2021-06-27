@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "957868594516",
+    "project_id": "aureus-8147c",
+    "storage_bucket": "aureus-8147c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957868594516:android:172a19b86bd3bbd741a4c1",
+        "android_client_info": {
+          "package_name": "com.aureus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957868594516-5o71k0f0l9v7s242432ad9161di3q91s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDltDskBVn4YPmiyMjCygQTiR3Vd44a5m8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957868594516-5o71k0f0l9v7s242432ad9161di3q91s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
